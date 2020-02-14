@@ -9,7 +9,7 @@
 
 
 # :muscle: Basic Angular 8 Application
-Basic application for registration and listing
+Basic application for registration and listing - static version
  
 # :computer: Frontend
 
@@ -18,15 +18,6 @@ Basic application for registration and listing
 
 ## :video_camera: Tecnologies:
 * Angular 8
-
-# :minidisc: Backend
-
-## Description:
-* Backend to control register and list of clients and equipments
-
-## :video_camera: Tecnologies:
-* NodeJS
-* Firebird
 
 ## References 
 <a href="https://www.freepik.com/free-photos-vectors/logo">Logo vector created by pikisuperstar - www.freepik.com</a>
